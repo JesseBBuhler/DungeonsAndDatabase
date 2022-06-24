@@ -1,5 +1,5 @@
 import React from 'react';
 
 export default function PlayersHandbook() {
-  return <h2>Player's Handbook</h2>;
+  return <h3>Player's Handbook</h3>;
 }

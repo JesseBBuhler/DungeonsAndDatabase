@@ -9,3 +9,6 @@ So I'm going to just make a list of them here and come back to them later after 
 2.  A moster creator
 3.  A digital version of the Dungeon Masters Guide, The Player's Handbook, and The Moster Manual
 4.  A place for me to orgainze campaigns.
+
+I am using this tutorial to learn routing.  Come back to this tomorrow.
+https://www.digitalocean.com/community/tutorials/how-to-handle-routing-in-react-apps-with-react-router
